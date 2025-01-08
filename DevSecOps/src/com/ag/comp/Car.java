@@ -1,5 +1,6 @@
 package com.ag.comp;
 
-public class Car {
-
+public interface Car 
+{
+	public void car();
 }
