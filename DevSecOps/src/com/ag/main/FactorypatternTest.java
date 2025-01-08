@@ -2,7 +2,7 @@ package com.ag.main;
 
 import com.ag.comp.Car;
 import com.ag.factory.Factorypattern;
-
+// main class hai bhai
 public class FactorypatternTest {
 
 	public static void main(String[] args)
