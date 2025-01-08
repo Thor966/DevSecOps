@@ -2,7 +2,6 @@ package com.ag.comp;
 
 public class ElectricCar implements Car
 {
-	// overrided methods
 	@Override
 	public void car()
 	{
