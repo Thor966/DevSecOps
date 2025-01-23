@@ -1,0 +1,7 @@
+INFO-main-1162-com.ag.main.DeleteTest - Oracle driver is loaded successfully...-2025-01-23 22:23:40,238-
+INFO-main-3622-com.ag.main.DeleteTest - Oracle database connection has been successful...-2025-01-23 22:23:42,698-
+INFO-main-4049-com.ag.main.DeleteTest - Statement is execute successful...-2025-01-23 22:23:43,125-
+DEBUG-main-4061-com.ag.main.DeleteTest - Statement data updated successfully...-2025-01-23 22:23:43,137-
+INFO-main-2913-com.ag.main.DeleteTest - Oracle database connection has been successful...-2025-01-23 22:23:44,545-
+INFO-main-3218-com.ag.main.DeleteTest - Statement is execute successful...-2025-01-23 22:23:44,850-
+DEBUG-main-3229-com.ag.main.DeleteTest - Statement data updated successfully...-2025-01-23 22:23:44,861-
