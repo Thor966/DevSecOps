@@ -1,0 +1,16 @@
+<log4j:event logger="com.ag.main.InsertTest" timestamp="1737549426981" level="DEBUG" thread="main">
+<log4j:message><![CDATA[main() method started...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.ag.main.InsertTest" timestamp="1737549427418" level="INFO" thread="main">
+<log4j:message><![CDATA[Oracle driver is loaded successful...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.ag.main.InsertTest" timestamp="1737549428552" level="INFO" thread="main">
+<log4j:message><![CDATA[Oracle database is successfully connected...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.ag.main.InsertTest" timestamp="1737549428776" level="INFO" thread="main">
+<log4j:message><![CDATA[prepared statement execute successfully...]]></log4j:message>
+</log4j:event>
+
