@@ -5,3 +5,8 @@ DEBUG-main-4061-com.ag.main.DeleteTest - Statement data updated successfully...-
 INFO-main-2913-com.ag.main.DeleteTest - Oracle database connection has been successful...-2025-01-23 22:23:44,545-
 INFO-main-3218-com.ag.main.DeleteTest - Statement is execute successful...-2025-01-23 22:23:44,850-
 DEBUG-main-3229-com.ag.main.DeleteTest - Statement data updated successfully...-2025-01-23 22:23:44,861-
+DEBUG-main-0-com.ag.main.DeleteTest - main() has been started...-2025-02-06 16:25:55,387-
+INFO-main-850-com.ag.main.DeleteTest - Oracle driver is loaded successfully...-2025-02-06 16:25:56,237-
+INFO-main-3170-com.ag.main.DeleteTest - Oracle database connection has been successful...-2025-02-06 16:25:58,557-
+INFO-main-3674-com.ag.main.DeleteTest - Statement is execute successful...-2025-02-06 16:25:59,061-
+DEBUG-main-3773-com.ag.main.DeleteTest - Statement data updated successfully...-2025-02-06 16:25:59,160-

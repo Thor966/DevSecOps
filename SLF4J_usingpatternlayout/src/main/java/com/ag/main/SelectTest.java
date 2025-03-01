@@ -39,6 +39,8 @@ public class SelectTest {
 			}
 			logger.debug("Data display on console successfully...");
 			
+			con.close();
+			ps1.close();
 			
 		}
 		catch(SQLException se)
@@ -51,6 +53,8 @@ public class SelectTest {
 			e.printStackTrace();
 			logger.error("Getting UnKnown Exception...  "+ e.getMessage());
 		}
+		
+		
 		
 		
 
